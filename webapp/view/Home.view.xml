@@ -1,0 +1,11 @@
+<mvc:View
+	controllerName="com.sap.routing.controller.Home"
+	xmlns:mvc="sap.ui.core.mvc"
+	xmlns="sap.m"
+	xmlns:c="sap.ui.core"
+	displayBlock="true"
+	height="100%"
+	busyIndicatorDelay="0"
+>
+    <Page id="page" title="Home" class=""></Page>
+</mvc:View>
